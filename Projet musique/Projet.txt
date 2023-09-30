@@ -1,0 +1,12 @@
+Créé un réseau de neurone capable de généré des musiques de jeux vidéo à partir de paramètres fournis par l'utilisateur tel que
+
+La durée de la musique (en secondes)
+Le tempo de la musique (en battements par minute)
+La tonalité de la musique (par exemple, do majeur, la mineur, etc.)
+Le style musical (par exemple, musique de combat, musique de puzzle, musique d'aventure, etc.)
+Le type d'instruments (par exemple, piano, cordes, cuivres, percussions, etc.)
+Le niveau de complexité de la musique (par exemple, simple, intermédiaire, complexe)
+Le niveau d'énergie de la musique (par exemple, calme, énergique, intense)
+Les thèmes ou les atmosphères que la musique doit évoquer (par exemple, joyeux, triste, effrayant, épique, mystérieux, espace, nature, forêt...)
+
+Une fois ces paramètres entré, l'ia donnera des extraits à l'utilisateur qui pourra alors les utilisé pour affiné sa recherche, pour construire au fur et à mesure la musique

@@ -1,0 +1,6 @@
+Fréquence max : 23 000 hz
+
+
+représentation d'une musique : 
+
+public double[][] musique; //amplitude en db[temps, en millieme de seconde][frequence en hz]
